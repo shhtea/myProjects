@@ -1,7 +1,7 @@
-h1 {color: crimson;}
-h2 {color: blue;}
+h1 {color: rgb(109, 19, 37);}
+h2 {color: rgb(36, 36, 100);}
 .container {
-    background-color: #FF8630;
+    background-color: #c95c0e;
     padding: 55px 40px;
   }
   
